@@ -12,6 +12,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 # View it in the browser
 ## https://kino-land.netlify.app/
 
+<!-- Try the letterboxd api https://letterboxd.com/mistat/films/ -->
+
 
 <!-- ### `npm test`
 
